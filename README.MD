@@ -2,17 +2,18 @@
 
 #### Date, 2024/03/30
 
-#### By *Mark Nyanjui Warunge*
+## Author 
+Mark Nyanjui Warunge
 
 ## Description
 
-## Question 1 (Toggle Case)
+1) ## Question 1 (Toggle Case)
 This is a function that swaps the case of the input given. The uppercase letters are changed to lowercase and the lowercase letters are changed to uppercase.
 
-## Question 2 (Number Generator)
+2) ## Question 2 (Number Generator)
 This is a function that is used to generate the numbers between two given numbers. Within the function, the direction of counting has been given dependig on whether the start is less than or equal to the end.
 
-## Question 3 (Prime Identifier)
+3) ## Question 3 (Prime Identifier)
 This is a function that is used to identify the prime number in a given array. It starts off by defining the first prime numbers (2 and 3) and also disproves that 1 is the first prime number. It then checks for prime numbers greater than 3.
 
 
@@ -24,13 +25,12 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/MarkNyanjui/Week2-Code-Challenge.git
+Git clone https://github.com/MarkNyanjui/Mark-Warunge.Week2-CodeChallenge.git
 
 ```
 
 # Live Link
-[Git](gh-pages link)
-
+ https://marknyanjui.github.io/Mark-Warunge.Week2-CodeChallenge/
 ## Technologies used
 HTML
 CSS
@@ -38,7 +38,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/MarkNyanjui
+[github.com](https://github.com/MarkNyanjui)
 
 ### License
 The content of this site is licensed under the MIT license
